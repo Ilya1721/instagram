@@ -69397,7 +69397,7 @@ function (_Component) {
       })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "body"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "https://cdn.glitch.com/d7d46297-c2d4-410e-a289-79b7d4e1cc56%2Fgirl.jpg"
+        src: "https://cdn.glitch.com/77ce8d6f-3e14-4b3c-84ed-d93542c429d2%2Fimage1.jpg"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "comment"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {

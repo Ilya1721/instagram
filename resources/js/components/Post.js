@@ -23,7 +23,7 @@ export default class Header extends Component {
               </div>
             </div>
             <div id="body">
-              <img src="https://cdn.glitch.com/d7d46297-c2d4-410e-a289-79b7d4e1cc56%2Fgirl.jpg" />
+              <img src="https://cdn.glitch.com/77ce8d6f-3e14-4b3c-84ed-d93542c429d2%2Fimage1.jpg" />
             </div>
             <div id="comment">
               <div id="button-grid">
